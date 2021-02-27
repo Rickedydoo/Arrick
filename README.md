@@ -2,6 +2,8 @@
 # Problem Statement: 
 # Vaccination Scheduling: Develop a mobile/web application through which patients and health organizations can manage scheduling and administration of the COVID-19 vaccines. The application can include features like vaccination eligibility, priority queue, smart overbooking, no-contact patient check-in, location-wise appointment, appointment reminders, etc.
 
+In this project we used Java to code out our website for Vaccination Scheduling. For the database, we use Oracle SQL* Plus to store respective data from users.
+
 # Our Home Page
 ![](Images/Main1.JPG)
 ![](Images/Main2.JPG)
