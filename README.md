@@ -16,6 +16,8 @@ In this project we used Java to code out our website for Vaccination Scheduling.
 
 # 'Check you slot information' will allow users to check on their booking base on their NRIC
 ![](Images/Check.JPG)
+# Priority is shown as high for those aged 65 & above
+![](Images/Schedule2.JPG)
 
 # 'Check In' page serves similar concept to the Safe Entry that Singapore has. This is to ensure that not only patients are being responsible and checking in but also server as a way for them to indicate that they have completed their vaccincation turn.
 ![](Images/Check%20in.JPG)
