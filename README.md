@@ -8,7 +8,7 @@ In this project we used Java to code out our website for Vaccination Scheduling.
 ![](Images/Main1.JPG)
 ![](Images/Main2.JPG)
 
-# 'Latest Government Updates' will show an offical new from Ministry of health
+# 'Latest Government Updates' will show offical news from Ministry of health
 ![](Images/Offical.JPG)
 
 # Schedule an appointment is for users to book their vaccination timings
