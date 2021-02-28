@@ -42,8 +42,8 @@ SELECT * FROM Patient where Pat_NRIC='"+PatNRIC+"'
 ```
 
 # Our Home Page
-![](Images/Main1.JPG)
-![](Images/Main2.JPG)
+![](Images/MainPage1.JPG)
+![](Images/MainPage2.JPG)
 
 # 'Latest Government Updates' will show offical news from Ministry of health
 ![](Images/Offical.JPG)
