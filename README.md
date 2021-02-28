@@ -5,6 +5,8 @@
 
 In this project we used Java to code out our website for Vaccination Scheduling. For the database, we use Oracle SQL* Plus to store respective data from users. During scheduling an appointment, those users who are aged 65 and above will be given high priority so that they will be able to get vaccinated faster and earlier. Upon checking in using the 'Check In' page, users will have their status turn from 'Incomplete' to 'Complete'. This is to help clear up the database and make it more organised. For 'Edit Your Information' page, users will need to key in their NRIC which will then allow them to edit their respective information.
 
+Link to our short demo: https://www.youtube.com/watch?v=l8HR-0S9-vk&feature=youtu.be
+
 # SQL Codes
 ```sql
 #TABLE CREATION
