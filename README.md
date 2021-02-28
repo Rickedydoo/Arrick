@@ -1,6 +1,7 @@
 # Vaccine-Scheduling-Code-for-Hackathon-2021
 # Problem Statement: 
 # Vaccination Scheduling: Develop a mobile/web application through which patients and health organizations can manage scheduling and administration of the COVID-19 vaccines. The application can include features like vaccination eligibility, priority queue, smart overbooking, no-contact patient check-in, location-wise appointment, appointment reminders, etc.
+# Project Completed by: Arrick Ang Di Si, Muhammad Zaki Bin Zulkhairi, Lingesh S/O Ganesh
 
 In this project we used Java to code out our website for Vaccination Scheduling. For the database, we use Oracle SQL* Plus to store respective data from users. During scheduling an appointment, those users who are aged 65 and above will be given high priority so that they will be able to get vaccinated faster and earlier. Upon checking in using the 'Check In' page, users will have their status turn from 'Incomplete' to 'Complete'. This is to help clear up the database and make it more organised. For 'Edit Your Information' page, users will need to key in their NRIC which will then allow them to edit their respective information.
 
