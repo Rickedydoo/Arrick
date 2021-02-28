@@ -49,7 +49,7 @@ SELECT * FROM Patient where Pat_NRIC='"+PatNRIC+"'
 ![](Images/Offical.JPG)
 
 # Schedule an appointment is for users to book their vaccination timings
-![](Images/Schedule.JPG)
+![](Images/SchedulePage.JPG)
 
 # 'Check you slot information' will allow users to check on their booking base on their NRIC
 ![](Images/Check.JPG)
@@ -60,4 +60,4 @@ SELECT * FROM Patient where Pat_NRIC='"+PatNRIC+"'
 ![](Images/Checkin.JPG)
 
 # Last but not least the 'Edit Your information' page allow users to edit their booking times and other information base on their NRIC
-![](Images/Edit.JPG)
+![](Images/EditPage.JPG)
